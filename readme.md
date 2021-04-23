@@ -1,5 +1,5 @@
 # Podcastr 🎙
-Projeto desenvolvido na NLW5 da Rocketseat. O sistema consiste em uma plataforma para podcasts, onde é possivel selecionar o episódio e escutar, juntamente com outras funcionalidades (loop, shuffle, next, previous).
+Projeto desenvolvido na NLW5 da Rocketseat. O sistema consiste em uma plataforma para podcasts, onde é possivel ver os episódios disponveis, selecionar e escutar, juntamente com outras funcionalidades (loop, shuffle, next, previous).
 
 <img style="border-radius: 6px" src="https://i.imgur.com/i0Gjex0.png"/>
 
