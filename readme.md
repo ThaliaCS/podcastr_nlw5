@@ -31,4 +31,4 @@ $ yarn server
 # Inicie o projeto
 $ yarn dev
 ```
-Made with  🖤  by <a href="https://www.linkedin.com/in/thalia-schone/">Thalia Schöne</a>
+Made with ❤ by <a href="https://www.linkedin.com/in/thalia-schone/">Thalia Schöne</a>
